@@ -1,5 +1,5 @@
 # iujc_cv6
-Šesté předmětu IUJC (24.10.2016)
+Šesté cvičení předmětu IUJC (24.10.2016)
 
 ##Příklad 1 
 Napište program, jež dynamicky alokuje jednorozměrné pole celých N čísel. Pole načtěte a následně vytiskněte. Dále proveďte realokaci pole na dvounásobnou dimenzi. 
